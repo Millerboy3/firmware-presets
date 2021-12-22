@@ -120,7 +120,6 @@
       "Joshua Bardwell",
       "NemesisXB",
       "TTFPV",
-      "TripleThreatFPV",
       "ctzsnooze",
       "sugarK"
     ],
@@ -1002,7 +1001,7 @@
     },
     {
       "fullPath": "presets/4.3/rates/TTFPV.txt",
-      "hash": "1050bc6d13b1490df180e3a9b25afe94fd8070c3bc6301c81eca4baa9f584769",
+      "hash": "1f38153ec7002fa160672eb4deb9dd5d1154d77f6c547267070c738bffe8de44",
       "options": [],
       "title": "TTFPV Default rates",
       "firmware_version": [
@@ -1015,7 +1014,7 @@
         "rates",
         "actual"
       ],
-      "author": "TripleThreatFPV",
+      "author": "TTFPV",
       "description": [
         "Default TTFPV Rates - ACTUAL",
         "Will be applied for the currently selected rate profile",

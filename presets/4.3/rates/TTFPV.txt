@@ -3,7 +3,7 @@
 #$ CATEGORY: RATES
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: TTFPV, rates, actual
-#$ AUTHOR: TripleThreatFPV
+#$ AUTHOR: TTFPV
 #$ DESCRIPTION: Default TTFPV Rates - ACTUAL
 #$ DESCRIPTION: Will be applied for the currently selected rate profile
 #$ DESCRIPTION: TPA values are not included
