@@ -119,6 +119,7 @@
       "Directory",
       "Joshua Bardwell",
       "NemesisXB",
+      "TripleThreatFPV",
       "ctzsnooze",
       "sugarK"
     ],
@@ -993,6 +994,29 @@
       "author": "Betaflight",
       "description": [
         "Default Betaflight rates - ACTUAL",
+        "Will be applied for the currently selected rate profile",
+        "TPA values are not included",
+        "Throttle limit and curve are not included"
+      ]
+    },
+    {
+      "fullPath": "presets/4.3/rates/TTFPV.txt",
+      "hash": "1050bc6d13b1490df180e3a9b25afe94fd8070c3bc6301c81eca4baa9f584769",
+      "options": [],
+      "title": "TTFPV Default rates",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "RATES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "TTFPV",
+        "rates",
+        "actual"
+      ],
+      "author": "TripleThreatFPV",
+      "description": [
+        "Default TTFPV Rates - ACTUAL",
         "Will be applied for the currently selected rate profile",
         "TPA values are not included",
         "Throttle limit and curve are not included"
