@@ -118,7 +118,6 @@
       "Betaflight",
       "Directory",
       "Joshua Bardwell",
-      "NemesisXB",
       "TTFPV",
       "ctzsnooze",
       "sugarK"
@@ -135,9 +134,7 @@
       "GPS",
       "HDO2",
       "HD_freestyle",
-      "HDzero",
       "HV",
-      "IRC",
       "OSD",
       "SA 2.0",
       "SA 2.0 lite",
@@ -145,6 +142,7 @@
       "TBS",
       "TTFPV",
       "TX16S",
+      "Thr33Mix",
       "Thr33MixV2",
       "XF",
       "actual",
@@ -165,9 +163,7 @@
       "control",
       "default",
       "defaults",
-      "diatone",
       "disable",
-      "divimath",
       "dynamic",
       "expert",
       "filter",
@@ -185,7 +181,6 @@
       "link",
       "log",
       "logging",
-      "mamba",
       "mode",
       "modes",
       "names",
@@ -211,11 +206,9 @@
       "rush tank",
       "rushfpv",
       "sbus",
-      "shark bite",
       "smooth",
       "smoothing",
       "some",
-      "speedybee",
       "stats",
       "sugarK",
       "switch",
@@ -223,12 +216,8 @@
       "tank ultimate",
       "tiny tank",
       "tracer",
-      "tramp",
       "transition",
       "tune",
-      "tx800",
-      "ultra",
-      "ultra 1000",
       "unify",
       "unify pro",
       "very",
@@ -598,6 +587,27 @@
       "author": "Betaflight",
       "description": [
         "Resets LED settings to 4.3 defaults",
+        "Options: LED, colour or mode_color resets."
+      ]
+    },
+    {
+      "fullPath": "presets/4.3/leds/Thr33Mix.txt",
+      "hash": "91f9b3d6ca45d2fc3c461153bc33001e7bc662ebb5933bc90508e2187b749c1a",
+      "options": [],
+      "title": "Thr33Mix",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "LEDS",
+      "status": "COMMUNITY",
+      "keywords": [
+        "TTFPV",
+        "Thr33Mix",
+        "leds"
+      ],
+      "author": "TTFPV",
+      "description": [
+        "Defaults For Custom LED Panel on Remix Frame V1",
         "Options: LED, colour or mode_color resets."
       ]
     },
@@ -2027,110 +2037,25 @@
       ]
     },
     {
-      "fullPath": "presets/4.3/vtx/diatone_mamba_ultra_1000.txt",
-      "hash": "63f36e059b1991b90c79eecd7df8fb5a330aba52e04166faab51d712f9dbdcf0",
-      "options": [
-        {
-          "name": "NO HAM",
-          "checked": false
-        },
-        {
-          "name": "HAM",
-          "checked": true
-        }
-      ],
-      "title": "Diatone Mamba Ultra 1000 VTX Tables",
+      "fullPath": "presets/4.3/vtx/rush tank mini ultimate.txt",
+      "hash": "48bff9047df9b7a34b581281c0caf9ce247ddb46c5a4a8608bfac3a0aefe3d33",
+      "options": [],
+      "title": "Rush Tank Mini Ultimate",
       "firmware_version": [
-        "4.2",
         "4.3"
       ],
       "category": "VTX",
       "status": "COMMUNITY",
       "keywords": [
-        "vtx",
-        "vtx table",
-        "vtxtable",
-        "diatone",
-        "mamba",
-        "ultra",
-        "ultra 1000"
+        "defaults",
+        "reset",
+        "clear",
+        "vtx"
       ],
-      "author": "NemesisXB",
+      "author": "TTFPV",
       "description": [
-        "VTX tables for the Diatone Mamba Ultra 1000. (IRC Tramp)",
-        "Select the the HAM option if you have a HAM license or the NO HAM if you do not.",
-        "EU users select the NO HAM option."
-      ],
-      "disclaimer": "Only select one option. All previous VTX Table settings will be reset.",
-      "include_disclaimer": [
-        "misc/disclaimer/en/vtxtable.txt"
-      ],
-      "discussion": "https://github.com/betaflight/firmware-presets/pull/107",
-      "include": [
-        "presets/4.3/vtx/defaults_vtx_tables.txt"
-      ]
-    },
-    {
-      "fullPath": "presets/4.3/vtx/HDZero_race2.txt",
-      "hash": "1f0d58822dc85b11656aaa4c0ec96214e587d5da74f399440cf5a11824b12286",
-      "options": [
-        {
-          "name": "use displayport on uart 1",
-          "checked": false
-        },
-        {
-          "name": "use displayport on uart 2",
-          "checked": false
-        },
-        {
-          "name": "use displayport on uart 3",
-          "checked": false
-        },
-        {
-          "name": "use displayport on uart 4",
-          "checked": false
-        },
-        {
-          "name": "use displayport on uart 5",
-          "checked": false
-        },
-        {
-          "name": "use displayport on uart 6",
-          "checked": false
-        },
-        {
-          "name": "map to displayport",
-          "checked": true
-        }
-      ],
-      "title": "HDZero race 2",
-      "firmware_version": [
-        "4.2",
-        "4.3"
-      ],
-      "category": "VTX",
-      "status": "COMMUNITY",
-      "keywords": [
-        "vtx",
-        "vtx table",
-        "HDzero",
-        "divimath",
-        "shark bite",
-        "SA 2.1"
-      ],
-      "author": "sugarK",
-      "description": [
-        "VTX table for HDZero race 2",
-        "The information provided on this preset is for educational and entertainment purposes only. Betaflight makes no representations as to the safety or legality of the use of any information provided herein. End users assume all responsibility and liability for ensuring they are complying with all relevant laws and regulations.",
-        "----------",
-        "Using the VTX tables as provided may be in breach of your local RF laws. It is up to the end user to research and comply with local regulations and in using these presets the user assumes all liability associated with breaching local regulations."
-      ],
-      "discussion": "https://github.com/betaflight/firmware-presets/pull/89",
-      "include": [
-        "presets/4.3/vtx/defaults.txt"
-      ],
-      "include_disclaimer": [
-        "misc/disclaimer/en/vtxtable.txt"
+        "Resets VTx settings and table back to 4.3 Defaults",
+        "Only the checked settings will be reset"
       ]
     },
     {
@@ -2187,77 +2112,6 @@
       "discussion": "https://github.com/betaflight/firmware-presets/pull/78",
       "include": [
         "presets/4.3/vtx/defaults.txt"
-      ]
-    },
-    {
-      "fullPath": "presets/4.3/vtx/speedybee_tx800.txt",
-      "hash": "23b289a0b51770f8f6c0ba648ac0d7cc6685edf7216cb13041740a56c8f44bbf",
-      "options": [
-        {
-          "name": "EU",
-          "checked": false
-        },
-        {
-          "name": "US",
-          "checked": true
-        }
-      ],
-      "title": "SpeedyBee TX800 VTX Tables",
-      "firmware_version": [
-        "4.2",
-        "4.3"
-      ],
-      "category": "VTX",
-      "status": "COMMUNITY",
-      "keywords": [
-        "vtx",
-        "vtx table",
-        "speedybee",
-        "tx800"
-      ],
-      "author": "NemesisXB",
-      "description": [
-        "VTX tables for the SpeedyBee TX800.",
-        "Select the regulatory domain in the options (EU or US)."
-      ],
-      "disclaimer": "Only select one regulatory option. All previous VTX Table settings will be reset.",
-      "include_disclaimer": [
-        "misc/disclaimer/en/vtxtable.txt"
-      ],
-      "discussion": "https://github.com/betaflight/firmware-presets/pull/105",
-      "include": [
-        "presets/4.3/vtx/defaults_vtx_tables.txt"
-      ]
-    },
-    {
-      "fullPath": "presets/4.3/vtx/tramp_nano_and_HV.txt",
-      "hash": "0a496b6215aae4a72cbe0c1c1a3bc5d225609ebf25318c428abd6ad383e9bcfe",
-      "options": [],
-      "title": "IRC Tramp Nano and HV",
-      "firmware_version": [
-        "4.2",
-        "4.3"
-      ],
-      "category": "VTX",
-      "status": "COMMUNITY",
-      "keywords": [
-        "vtx",
-        "vtx table",
-        "IRC",
-        "tramp",
-        "HV",
-        "nano"
-      ],
-      "author": "sugarK",
-      "description": [
-        "VTX table for Rush Tank 30x30, Mini and Ultimate Plus. Note this table is as provided by the manufacture.",
-        "The information provided on this preset is for educational and entertainment purposes only. Betaflight makes no representations as to the safety or legality of the use of any information provided herein. End users assume all responsibility and liability for ensuring they are complying with all relevant laws and regulations.",
-        "----------",
-        "Using the VTX tables as provided may be in breach of your local RF laws. It is up to the end user to research and comply with local regulations and in using these presets the user assumes all liability associated with breaching local regulations."
-      ],
-      "discussion": "https://github.com/betaflight/firmware-presets/pull/31",
-      "include_disclaimer": [
-        "misc/disclaimer/en/vtxtable.txt"
       ]
     },
     {
