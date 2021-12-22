@@ -3,7 +3,7 @@
 #$ CATEGORY: MODES
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: TTFPV, TX16S, XF, mode, modes, adjustments, aux, switch
-#$ AUTHOR: Betaflight
+#$ AUTHOR: TTFPV
 #$ DESCRIPTION: Tx16s XF Default Modes for 12ch
 
 # aux switch settings

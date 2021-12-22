@@ -3,7 +3,7 @@
 #$ CATEGORY: OSD
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: TTFPV, HDO2, OSD
-#$ AUTHOR: Betaflight
+#$ AUTHOR: TTFPV
 #$ DESCRIPTION: My Personal OSD for HDO2
 
 set osd_warn_arming_disable = ON

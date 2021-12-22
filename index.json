@@ -119,6 +119,7 @@
       "Directory",
       "Joshua Bardwell",
       "NemesisXB",
+      "TTFPV",
       "TripleThreatFPV",
       "ctzsnooze",
       "sugarK"
@@ -603,7 +604,7 @@
     },
     {
       "fullPath": "presets/4.3/leds/Thr33MixV2.txt",
-      "hash": "4ff490526fd738085c6f5106487ec000eaa1f0675c437b6ff98894f6eccfc376",
+      "hash": "cff336c91de4d7fd3fea2d9c15b4c3f452ab7675a7e276d6b0bb10666a84007f",
       "options": [],
       "title": "Thr33Mixv2",
       "firmware_version": [
@@ -616,7 +617,7 @@
         "Thr33MixV2",
         "leds"
       ],
-      "author": "Betaflight",
+      "author": "TTFPV",
       "description": [
         "Defaults For Custom LED Panel on Remix Frame V2",
         "Options: LED, colour or mode_color resets."
@@ -648,7 +649,7 @@
     },
     {
       "fullPath": "presets/4.3/modes/XFTX16s.txt",
-      "hash": "a0c4a3b76e30f20b3a7e266aa14ca5f6137fe376ec397cc48ab7317bd1fd9230",
+      "hash": "d6f194744fbb679299cc94149587f9a0860351cdfd22417952f41f61bd5dda4e",
       "options": [],
       "title": "XF Tx16S",
       "firmware_version": [
@@ -666,7 +667,7 @@
         "aux",
         "switch"
       ],
-      "author": "Betaflight",
+      "author": "TTFPV",
       "description": [
         "Tx16s XF Default Modes for 12ch"
       ]
@@ -693,7 +694,7 @@
     },
     {
       "fullPath": "presets/4.3/osd/HDO2.txt",
-      "hash": "2b977ff32e0fffbdfc689ef16cef800631683e94f48d2b3517a1c2ade99a2bf7",
+      "hash": "041bbea850cf519f9aea2be5884c2012e4e2f998394460f815d026863ff0efad",
       "options": [],
       "title": "HDO2",
       "firmware_version": [
@@ -706,7 +707,7 @@
         "HDO2",
         "OSD"
       ],
-      "author": "Betaflight",
+      "author": "TTFPV",
       "description": [
         "My Personal OSD for HDO2"
       ]

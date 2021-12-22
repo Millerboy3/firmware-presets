@@ -3,7 +3,7 @@
 #$ CATEGORY: LEDS
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: TTFPV,Thr33MixV2, leds
-#$ AUTHOR: Betaflight
+#$ AUTHOR: TTFPV
 #$ DESCRIPTION: Defaults For Custom LED Panel on Remix Frame V2
 #$ DESCRIPTION: Options: LED, colour or mode_color resets.
 
