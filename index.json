@@ -2184,6 +2184,28 @@
       ]
     },
     {
+      "fullPath": "presets/4.3/vtx/Unify Evo.txt",
+      "hash": "930468a12ad2ffa460b9ce292245320fa266eae04d3e9d3340721eaf2a0484cb",
+      "options": [],
+      "title": "TBS Unify Evo 5G8 (HV) SA 2.1",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "defaults",
+        "reset",
+        "clear",
+        "vtx"
+      ],
+      "author": "TTFPV",
+      "description": [
+        "Resets VTx settings and table back to 4.3 Defaults",
+        "Only the checked settings will be reset"
+      ]
+    },
+    {
       "fullPath": "presets/4.3/vtx/Unify_EVO_5G8_HV_SA.txt",
       "hash": "1065525a75ef9c3c4d5adff000011c2e65a13aab8cac5755dae5571fd3faa605",
       "options": [],
