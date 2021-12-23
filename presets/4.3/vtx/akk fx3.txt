@@ -1,4 +1,4 @@
-#$ TITLE: Rush Tank Mini Ultimate
+#$ TITLE: AKK FX3
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: VTX
 #$ STATUS: COMMUNITY
