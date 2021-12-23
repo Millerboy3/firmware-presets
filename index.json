@@ -132,6 +132,7 @@
       "Digital",
       "ELRS",
       "EVO",
+      "FPORT",
       "GPS",
       "HDO2",
       "HD_freestyle",
@@ -655,6 +656,31 @@
       "author": "Betaflight",
       "description": [
         "Resets modes and adjustment ranges to 4.3 defaults"
+      ]
+    },
+    {
+      "fullPath": "presets/4.3/modes/Frsky Fport.txt",
+      "hash": "63ec246e007b60c9dca0ee10039509d6e9ec6824f7f0e4fbe2f592a770204926",
+      "options": [],
+      "title": "FrSky FPORT Tx16S",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "MODES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "TTFPV",
+        "TX16S",
+        "FPORT",
+        "mode",
+        "modes",
+        "adjustments",
+        "aux",
+        "switch"
+      ],
+      "author": "TTFPV",
+      "description": [
+        "Tx16s FrSky FPORT Default Modes for 16ch"
       ]
     },
     {
