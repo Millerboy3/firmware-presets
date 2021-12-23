@@ -129,6 +129,7 @@
       "50hz",
       "Crossfire",
       "DShot telemetry",
+      "Digital",
       "ELRS",
       "EVO",
       "GPS",
@@ -699,6 +700,26 @@
       "author": "Betaflight",
       "description": [
         "Resets the OSD values back to Betaflight 4.3 defaults"
+      ]
+    },
+    {
+      "fullPath": "presets/4.3/osd/Digital.txt",
+      "hash": "70d62244eaa1953b9794bc0941edaeb197c6f3a1c304d8a7337e12126660e05c",
+      "options": [],
+      "title": "Digital",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "keywords": [
+        "TTFPV",
+        "Digital",
+        "OSD"
+      ],
+      "author": "TTFPV",
+      "description": [
+        "My Personal OSD for DJI Goggles"
       ]
     },
     {
