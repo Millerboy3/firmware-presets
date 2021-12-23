@@ -2039,6 +2039,28 @@
       ]
     },
     {
+      "fullPath": "presets/4.3/vtx/akk fx3.txt",
+      "hash": "18d75f9dbaf05a529e88b4b7687ee7da69ebc660d5c327fb4e7bcbab262ba8b9",
+      "options": [],
+      "title": "Rush Tank Mini Ultimate",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "defaults",
+        "reset",
+        "clear",
+        "vtx"
+      ],
+      "author": "TTFPV",
+      "description": [
+        "Resets VTx settings and table back to 4.3 Defaults",
+        "Only the checked settings will be reset"
+      ]
+    },
+    {
       "fullPath": "presets/4.3/vtx/defaults.txt",
       "hash": "a7d9e6d9019134ad328b62b67b4dda294bde3bfd038385feb2d5f5584f88926b",
       "options": [],
