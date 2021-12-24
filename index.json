@@ -2106,6 +2106,27 @@
       ]
     },
     {
+      "fullPath": "presets/4.3/vtx/geprc tx600.txt",
+      "hash": "1874640c86e434a91d7d24da14b9aefbe757b741a8fc3e2ee92f5db0760fee05",
+      "options": [],
+      "title": "GepRC Tx600",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "defaults",
+        "reset",
+        "clear",
+        "vtx"
+      ],
+      "author": "TTFPV",
+      "description": [
+        "GepRC TX600 VTX Table"
+      ]
+    },
+    {
       "fullPath": "presets/4.3/vtx/rush tank mini ultimate.txt",
       "hash": "6b251abb2fa61030087e752d3051c0b47b2a17fd2578a7d4d877e79c1229f757",
       "options": [],
