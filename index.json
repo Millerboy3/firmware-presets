@@ -2491,6 +2491,28 @@
       "include_disclaimer": [
         "misc/disclaimer/en/vtxtable.txt"
       ]
+    },
+    {
+      "fullPath": "presets/4.3/vtx/xilo.txt",
+      "hash": "71bbb819bacf7ba15e5b53f81808b7e8d39c5c82aee146659c38b26ee370b20f",
+      "options": [],
+      "title": "XILO",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "defaults",
+        "reset",
+        "clear",
+        "vtx"
+      ],
+      "author": "TTFPV",
+      "description": [
+        "Resets VTx settings and table back to 4.3 Defaults",
+        "Only the checked settings will be reset"
+      ]
     }
   ]
 }
