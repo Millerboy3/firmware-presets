@@ -143,6 +143,7 @@
     "author": [
       "Alex Campbell (Chief)",
       "Alex Vanover",
+      "AyyyKayyy - Anthony Knight",
       "Betaflight",
       "BMSThomas",
       "ctzsnooze",
@@ -160,11 +161,12 @@
       "NemesisXB",
       "Sjoer van der Ploeg",
       "sugarK",
-      "SupaflyFPV"
+      "SupaflyFPV",
+      "TTFPV"
     ],
     "keywords": [
       "\\\\GAS",
-      "150Hz",
+      "150hz",
       "1S",
       "250Hz",
       "3 inch",
@@ -174,7 +176,7 @@
       "5 Inch",
       "5\"",
       "500Hz",
-      "50Hz",
+      "50hz",
       "533",
       "5in",
       "6 Inch",
@@ -190,6 +192,7 @@
       "aggressive",
       "AlexFPV",
       "aux",
+      "AyyyKayyy",
       "bando",
       "bardwell",
       "basher",
@@ -198,25 +201,29 @@
       "blackbox",
       "BMI270",
       "BMSThomas",
+      "brushless",
       "camera",
       "camera_control",
       "cfv2",
+      "cfv3",
       "Cgo",
       "Chief",
       "cinematic",
       "clean",
       "clear",
       "control",
-      "crossfire",
+      "Crossfire",
       "CRSF",
       "ctzsnooze",
       "CTZsoonze",
       "default",
       "defaults",
       "diatone",
+      "Digital",
       "disable",
       "divimath",
       "DShot telemetry",
+      "dynamic",
       "E7082VM",
       "ELRS",
       "emax",
@@ -229,6 +236,7 @@
       "filtering",
       "filters",
       "five33",
+      "FPORT",
       "fpvian",
       "freedom",
       "freedom spec",
@@ -244,6 +252,7 @@
       "gyroscope",
       "HD",
       "HD_freestyle",
+      "HDO2",
       "HDzero",
       "Headsup",
       "hot",
@@ -335,6 +344,8 @@
       "tank ultimate",
       "TBS",
       "texas",
+      "Thr33Mix",
+      "Thr33MixV2",
       "tiny",
       "tiny tank",
       "tinyTrainer",
@@ -342,7 +353,9 @@
       "trainer",
       "TRAMP",
       "transition",
+      "TTFPV",
       "tune",
+      "TX16S",
       "tx800",
       "UAV Tech",
       "ultra",
@@ -357,7 +370,9 @@
       "vtx table",
       "vtxtable",
       "whoop",
+      "whooptopia",
       "world champion",
+      "XF",
       "youtube"
     ]
   },
@@ -690,6 +705,62 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.3/leds/Thr33Mix.txt",
+      "hash": "91f9b3d6ca45d2fc3c461153bc33001e7bc662ebb5933bc90508e2187b749c1a",
+      "title": "Thr33Mix",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "LEDS",
+      "status": "COMMUNITY",
+      "keywords": [
+        "TTFPV",
+        "Thr33Mix",
+        "leds"
+      ],
+      "author": "TTFPV",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/leds/Thr33MixV2.txt",
+      "hash": "cff336c91de4d7fd3fea2d9c15b4c3f452ab7675a7e276d6b0bb10666a84007f",
+      "title": "Thr33Mixv2",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "LEDS",
+      "status": "COMMUNITY",
+      "keywords": [
+        "TTFPV",
+        "Thr33MixV2",
+        "leds"
+      ],
+      "author": "TTFPV",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/modes/Cap XF.txt",
+      "hash": "4c182c3ec3bd16678472d7712cdc4bd315f8ca7c2ad47367bbec60324f4a42e0",
+      "title": "CAP XF Tx16S",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "MODES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "TTFPV",
+        "TX16S",
+        "XF",
+        "mode",
+        "modes",
+        "adjustments",
+        "aux",
+        "switch"
+      ],
+      "author": "TTFPV",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.3/modes/defaults.txt",
       "hash": "16a19e27a46efcd9f86d56f17e8fe82356921399cc0c5502e257e33ef8c321c3",
       "title": "Default 4.3 Modes and Adjustment settings",
@@ -711,6 +782,67 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.3/modes/Frsky Fport.txt",
+      "hash": "63ec246e007b60c9dca0ee10039509d6e9ec6824f7f0e4fbe2f592a770204926",
+      "title": "FrSky FPORT Tx16S",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "MODES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "TTFPV",
+        "TX16S",
+        "FPORT",
+        "mode",
+        "modes",
+        "adjustments",
+        "aux",
+        "switch"
+      ],
+      "author": "TTFPV",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/modes/XFTX16s.txt",
+      "hash": "d6f194744fbb679299cc94149587f9a0860351cdfd22417952f41f61bd5dda4e",
+      "title": "XF Tx16S",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "MODES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "TTFPV",
+        "TX16S",
+        "XF",
+        "mode",
+        "modes",
+        "adjustments",
+        "aux",
+        "switch"
+      ],
+      "author": "TTFPV",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/osd/Cap HDO.txt",
+      "hash": "36d5481a7f8031ce05ce5a83f8fd67f3361e95da5c3c5b172a6bf57718540184",
+      "title": "CAP HDO",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "keywords": [
+        "TTFPV",
+        "HDO2",
+        "OSD"
+      ],
+      "author": "TTFPV",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.3/osd/defaults.txt",
       "hash": "36eb8ae097d0362030b297477c971280aad5562ac512a3f7ffa91949ed56db82",
       "title": "Default 4.3 OSD settings",
@@ -725,6 +857,40 @@
         "OSD"
       ],
       "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/osd/Digital.txt",
+      "hash": "70d62244eaa1953b9794bc0941edaeb197c6f3a1c304d8a7337e12126660e05c",
+      "title": "Digital",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "keywords": [
+        "TTFPV",
+        "Digital",
+        "OSD"
+      ],
+      "author": "TTFPV",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/osd/HDO2.txt",
+      "hash": "041bbea850cf519f9aea2be5884c2012e4e2f998394460f815d026863ff0efad",
+      "title": "HDO2",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "keywords": [
+        "TTFPV",
+        "HDO2",
+        "OSD"
+      ],
+      "author": "TTFPV",
       "priority": 0
     },
     {
@@ -1072,6 +1238,23 @@
       "priority": 10000
     },
     {
+      "fullPath": "presets/4.3/rates/TTFPV.txt",
+      "hash": "1f38153ec7002fa160672eb4deb9dd5d1154d77f6c547267070c738bffe8de44",
+      "title": "TTFPV Default rates",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "RATES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "TTFPV",
+        "rates",
+        "actual"
+      ],
+      "author": "TTFPV",
+      "priority": 10000
+    },
+    {
       "fullPath": "presets/4.3/rates/UAV_tech.txt",
       "hash": "b446efe96a216241890e10e0308030dd02b4ca975df3d50ba6723039768c343e",
       "title": "UAV Tech rates",
@@ -1109,6 +1292,87 @@
       ],
       "author": "Alex Vanover",
       "priority": 10000
+    },
+    {
+      "fullPath": "presets/4.3/rc_link/Crossfire_150hz_locked _CFV3.txt",
+      "hash": "ccab0602ab7090a96e6b21613d6f3c99ae5d252062e0e13757d977276cfb6f7f",
+      "title": "TBS Crossfire 150hz locked  CFV3",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "RC_LINK",
+      "status": "OFFICIAL",
+      "keywords": [
+        "rc link",
+        "TBS",
+        "cfv3",
+        "150hz",
+        "Crossfire"
+      ],
+      "author": "sugarK",
+      "priority": 10000000000
+    },
+    {
+      "fullPath": "presets/4.3/rc_link/Crossfire_150hz_locked_CFV2.txt",
+      "hash": "c1f08050464487aa68ed3f2c077fff04cc4c04ce70f34e508249fe1d265e790e",
+      "title": "TBS Crossfire 150hz locked  CFV2",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "RC_LINK",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "rc link",
+        "tracer",
+        "TBS",
+        "cfv2",
+        "150hz",
+        "Crossfire"
+      ],
+      "author": "sugarK",
+      "priority": 10000000000
+    },
+    {
+      "fullPath": "presets/4.3/rc_link/Crossfire_50hz_locked_CFV2_CFV3.txt",
+      "hash": "f79420891629bff4e75616e9f4058019a120cb69351e194648f941d51c829863",
+      "title": "TBS Crossfire 50hz locked  CFV2/CFV3",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "RC_LINK",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "rc link",
+        "TBS",
+        "cfv2",
+        "50hz",
+        "Crossfire"
+      ],
+      "author": "sugarK",
+      "priority": 10000000000
+    },
+    {
+      "fullPath": "presets/4.3/rc_link/Crossfire_dyanmic_rate.txt",
+      "hash": "6f1509982af245a5d997feda60121687e44e6f2bfb76f525c23817f5a2a7d196",
+      "title": "TBS Crossfire Dynamic rate CFV2/CFV3",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "RC_LINK",
+      "status": "OFFICIAL",
+      "keywords": [
+        "rc link",
+        "TBS",
+        "cfv2",
+        "150hz",
+        "Crossfire",
+        "dynamic",
+        "cfv3"
+      ],
+      "author": "sugarK",
+      "priority": 10000000000
     },
     {
       "fullPath": "presets/4.3/rc_link/defaults.txt",
@@ -1409,6 +1673,46 @@
       "priority": 10000000000
     },
     {
+      "fullPath": "presets/4.3/rc_link/Tracer_CFV2.txt",
+      "hash": "eef6e2e820f7c0d03ee6697a1be440c52a95bf39d2563dcbe6f373588f3ded86",
+      "title": "TBS Tacer CFV2",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "RC_LINK",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "rc link",
+        "tracer",
+        "TBS",
+        "cfv2",
+        "250hz"
+      ],
+      "author": "sugarK",
+      "priority": 10000000000
+    },
+    {
+      "fullPath": "presets/4.3/rc_link/Tracer_CFV3.txt",
+      "hash": "d4ac0c2dd93bfc09f36332ea42c4a5aba8359c364231f6216a1d531ea090225e",
+      "title": "TBS Tacer CFV3",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "RC_LINK",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "rc link",
+        "tracer",
+        "TBS",
+        "cfv3",
+        "250hz"
+      ],
+      "author": "sugarK",
+      "priority": 10000000000
+    },
+    {
       "fullPath": "presets/4.3/rc_smoothing/cinematic.txt",
       "hash": "0205ecd295a55a87c9118042a7cf0bdbf750393b3493009d38e566206c8672be",
       "title": "Cinematic RC smoothing",
@@ -1551,7 +1855,7 @@
     },
     {
       "fullPath": "presets/4.3/tune/fpvian_basher_freestyle.txt",
-      "hash": "e11a86c61bcfe6ff08d9da43b07aa3c0763e2af2751684f9c40a26d7f53ed15a",
+      "hash": "03b21087600c46dec99c7c6f6c0dbba6a48011830a5b26e3a3d1c9ea220d4dde",
       "title": "Basher Freestyle 6S 5\" by FPVian",
       "firmware_version": [
         "4.3"
@@ -1568,6 +1872,7 @@
         "fpvian"
       ],
       "author": "FPVian",
+      "force_options_review": true,
       "priority": 1000000000000
     },
     {
@@ -1684,7 +1989,7 @@
     },
     {
       "fullPath": "presets/4.3/tune/SupaflyFPV_Freestyle_5_Inch_EasyTune.txt",
-      "hash": "2d52fbbb8aeb22170459b74d5b788ed80bb5d9952f2e8009cb07b103117615d3",
+      "hash": "3dc7346f137921b25a16da6b0aa70f500f2c0059edbbb67644f9c79eb94bb9d3",
       "title": "SupaflyFPV Freestyle 5 Inch",
       "firmware_version": [
         "4.3"
@@ -1705,7 +2010,7 @@
     },
     {
       "fullPath": "presets/4.3/tune/SupaflyFPV_Freestyle_6_and_EasyTune.txt",
-      "hash": "4411b1554066234acca3b0b812ca1c84f290096dcffb38f485a5fc8c112ddec7",
+      "hash": "62d190dd6030d0f3779e67dcbd24bd9ffa3162bab2a24cc090d9bc6c15432a77",
       "title": "SupaflyFPV Freestyle 6 Inch",
       "firmware_version": [
         "4.3"
@@ -1724,7 +2029,7 @@
     },
     {
       "fullPath": "presets/4.3/tune/SupaflyFPV_Freestyle_7_Inch_EasyTune.txt",
-      "hash": "36335f28e15ea1335625e4abd6174335f38ad53b97ec8de618a1d569554be520",
+      "hash": "49fe93d94e826091b38c9260885e3958ec621bccb0e1cd313a7785e62b22b6e9",
       "title": "SupaflyFPV Freestyle 7 Inch",
       "firmware_version": [
         "4.3"
@@ -1767,6 +2072,30 @@
       "priority": 1000000000000
     },
     {
+      "fullPath": "presets/4.3/tune/whoop_ayyykayyy.txt",
+      "hash": "18a0a21b675f4c2e4719bae8d448684e58b51981f657755fe4c2f95e7eaea2c7",
+      "title": "Whoop race tune by AyyyKayyy",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "TUNE",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "whoop",
+        "65mm",
+        "1S",
+        "race",
+        "acro",
+        "tune",
+        "AyyyKayyy",
+        "meteor",
+        "whooptopia",
+        "brushless"
+      ],
+      "author": "AyyyKayyy - Anthony Knight",
+      "priority": 1000000000000
+    },
+    {
       "fullPath": "presets/4.3/tune/whoop_justice.txt",
       "hash": "e380bdf6dd00f9bcce23fa4b10c3bdbd092afead4ffd7cb5a0eb492b5ed5eacc",
       "title": "Whoop race tune by Justice",
@@ -1788,6 +2117,24 @@
       "author": "Justice - Gary Kent",
       "force_options_review": true,
       "priority": 1000000000000
+    },
+    {
+      "fullPath": "presets/4.3/vtx/akk fx3.txt",
+      "hash": "e7cf40a89407474e6bc3b302b6cc477cfb57de19775f477489c01ce274a967bd",
+      "title": "AKK FX3",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "defaults",
+        "reset",
+        "clear",
+        "vtx"
+      ],
+      "author": "TTFPV",
+      "priority": 1000000
     },
     {
       "fullPath": "presets/4.3/vtx/defaults.txt",
@@ -1846,6 +2193,24 @@
         "ultra 1000"
       ],
       "author": "NemesisXB",
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.3/vtx/geprc tx600.txt",
+      "hash": "1874640c86e434a91d7d24da14b9aefbe757b741a8fc3e2ee92f5db0760fee05",
+      "title": "GepRC Tx600",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "defaults",
+        "reset",
+        "clear",
+        "vtx"
+      ],
+      "author": "TTFPV",
       "priority": 1000000
     },
     {
@@ -1916,6 +2281,24 @@
       "priority": 1000000
     },
     {
+      "fullPath": "presets/4.3/vtx/rush tank mini ultimate.txt",
+      "hash": "6b251abb2fa61030087e752d3051c0b47b2a17fd2578a7d4d877e79c1229f757",
+      "title": "Rush Tank Mini Ultimate",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "defaults",
+        "reset",
+        "clear",
+        "vtx"
+      ],
+      "author": "TTFPV",
+      "priority": 1000000
+    },
+    {
       "fullPath": "presets/4.3/vtx/rush_sa2.1_vtx_tables.txt",
       "hash": "22aadeaaf187206e8e33fe426586de11dcfb1ea0ef3e56850ff9aabd37078b14",
       "title": "Rush Tiny Tank, Tank Racing, Tank Ultimate Plus/Mini/II, and Tank Solo VTX tables",
@@ -1976,6 +2359,24 @@
         "nano"
       ],
       "author": "sugarK",
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.3/vtx/Unify Evo.txt",
+      "hash": "930468a12ad2ffa460b9ce292245320fa266eae04d3e9d3340721eaf2a0484cb",
+      "title": "TBS Unify Evo 5G8 (HV) SA 2.1",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "defaults",
+        "reset",
+        "clear",
+        "vtx"
+      ],
+      "author": "TTFPV",
       "priority": 1000000
     },
     {
@@ -2127,6 +2528,24 @@
         "SA 2.0 lite"
       ],
       "author": "sugarK",
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.3/vtx/xilo.txt",
+      "hash": "71bbb819bacf7ba15e5b53f81808b7e8d39c5c82aee146659c38b26ee370b20f",
+      "title": "XILO",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "defaults",
+        "reset",
+        "clear",
+        "vtx"
+      ],
+      "author": "TTFPV",
       "priority": 1000000
     }
   ]
